@@ -64,3 +64,23 @@
 - 🛒 **E-Commerce Platform** – Laravel + Vue + Inertia.js  
 - 💼 **Escrowlance** – Decentralized Freelance Marketplace (Next.js + Solidity)  
 - ✝️ **Christian Website** – Blogging, Reels & AI-powered Gospel platform  
+- 📚 **Online Learning Platform** – Udemy-style courses built with Laravel & Tailwind
+
+---
+
+## 💬 Let’s Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  ✨ <b>"Building for purpose, not just profit."</b> ✨  
+  <br>
+  © 2025 Bamikole Omoniyi
+</p>

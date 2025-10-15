@@ -1,32 +1,43 @@
-<h1 align="center">Hi 👋, I'm Bamikole Omoniyi</h1>
-<h3 align="center">Frontend Developer | Backend Developer | Full-Stack Web Developer | Web Tutor</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bamikole&label=Profile%20views&color=0e75b6&style=flat" alt="bamikole" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bamikole" alt="bamikole" /></a> </p>
-
-- 🔭 I’m currently working on **Quickal**
-
-- 🌱 I’m currently learning **Node.js**
-
-- 👯 I’m looking to collaborate on **Web Projects**
-
-- 👨‍💻 All of my projects are available at [github](github)
-
-- 💬 Ask me about **vueJs and nuxtJs**
-
-- 📫 How to reach me **devomoniyi.vercel.app**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/bamikole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bamikole" height="30" width="40" /></a>
-<a href="https://twitter.com/bamikole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bamikole" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bamikole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bamikole" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bamikole&show_icons=true&locale=en&layout=compact" alt="bamikole" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bamikole&show_icons=true&locale=en" alt="bamikole" /></p>
+# Hey ðŸ‘‹, I'm TOBI
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Economist+%7C+Data+Analyst+%7C+Web+Developer;Python+Lover+%F0%9F%90%8D+%7C+Pianist+%7C+Techie;Let's+Build+the+Future+Together!)](https://github.com/TOBYKNOWS)
+---
+## ðŸ“Œ About Me
+ðŸŽ“ B.Sc. in **Economics** | ðŸ“Š Certified **Data Analyst** (Qudroids Academy)
+ðŸ’» **Web Developer** | ðŸ”§ **Computer Technician** | ðŸŽ¹ **Versatile Pianist**
+ðŸ§  **Python** lover, driven by passion and curiosity
+ðŸ› ï¸ I build things that matter â€“ like my **Driver & Vehicle Management System** (Flask + Django),  **Django-based House Rent Management System**
+ðŸ“ˆ I analyze and visualize data using **Power BI**, **Excel**, and **SQL**
+ðŸš€ Always learning: diving deeper into **Machine Learning**, **Backend Engineering**, and **Data Engineering**
+---
+## ðŸ§° Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+---
+## ðŸ“ˆ GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TOBYKNOWS&show_icons=true&theme=github_dark&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TOBYKNOWS&theme=github-dark&hide_border=true" width="48%" />
+</div>
+---
+## ðŸ“‚ Pinned Projects
+- ðŸš— [Driver & Vehicle Manager](https://github.com/TOBYKNOWS) *(Flask + Django based app for fleet management)*
+- ðŸ“Š [Django-based House Rent Management System](https://github.com/TOBYKNOWS/House-Rent-App.git) *(A Django-based house rent management system that helps manage tenants, invoices, and rental properties.)*
+---
+### ðŸ“« Connect with Me
+- Email: [eskoma50@gmail.com](mailto:eskoma50@gmail.com)
+- LinkedIn: [linkedin.com/in/tobyknows](https://www.linkedin.com/in/tobyknows)
+- GitHub: [github.com/TOBYKNOWS](https://github.com/TOBYKNOWS)
+- Twitter: [@tobyyknows](https://x.com/tobyyknows?s=21)
+- WhatsApp: [Click to chat](https://whatsapp.com/dl/)
+- Instagram: [@_toby.gram](https://www.instagram.com/_toby.gram)
+---
+**â€œBlending tech, creativity, and data â€” from Nigeria to the world.â€ ** ðŸ‡³ðŸ‡¬ðŸ’¡ðŸŽ¶ 
+â­ *Donâ€™t forget to star/follow if you vibe with my work!* 

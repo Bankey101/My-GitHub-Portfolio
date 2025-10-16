@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Omoniyi Bamikole Solomon  
+### 👋 Hi, I’m Omoniyi Bamikole Solomon  
 
 🌍 I'm a **19-year-old Full-Stack Web Developer** from **Akure, Ondo State, Nigeria**.  
 🎓 Currently a **200-level Mathematical Sciences student** at the **Federal University of Technology, Akure (FUTA)**.  

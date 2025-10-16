@@ -1,43 +1,65 @@
-# Hey ðŸ‘‹, I'm TOBI
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Economist+%7C+Data+Analyst+%7C+Web+Developer;Python+Lover+%F0%9F%90%8D+%7C+Pianist+%7C+Techie;Let's+Build+the+Future+Together!)](https://github.com/TOBYKNOWS)
+# 👋 Hi, I’m Omoniyi Bamikole Solomon  
+
+🌍 I'm a **19-year-old Full-Stack Web Developer** from **Akure, Ondo State, Nigeria**.  
+🎓 Currently a **200-level Mathematical Sciences student** at the **Federal University of Technology, Akure (FUTA)**.  
+
+💻 I specialize in building **modern**, **responsive**, and **scalable web applications** using  
+**Laravel**, **Vue.js**, **Nuxt.js**, **Inertia.js**, **Tailwind CSS**, and **MySQL**.  
+
+With a strong passion for **problem-solving**, **technology**, and **continuous learning**,  
+I love turning complex ideas into smooth, user-friendly digital experiences.  
+
 ---
-## ðŸ“Œ About Me
-ðŸŽ“ B.Sc. in **Economics** | ðŸ“Š Certified **Data Analyst** (Qudroids Academy)
-ðŸ’» **Web Developer** | ðŸ”§ **Computer Technician** | ðŸŽ¹ **Versatile Pianist**
-ðŸ§  **Python** lover, driven by passion and curiosity
-ðŸ› ï¸ I build things that matter â€“ like my **Driver & Vehicle Management System** (Flask + Django),  **Django-based House Rent Management System**
-ðŸ“ˆ I analyze and visualize data using **Power BI**, **Excel**, and **SQL**
-ðŸš€ Always learning: diving deeper into **Machine Learning**, **Backend Engineering**, and **Data Engineering**
+
+### 🔭 I’m currently working on  
+A **decentralized freelance marketplace** called **Escrowlance** — built with **Nuxt.js**.  
+It’s focused on creating a **secure and transparent platform** for freelancers and clients.  
+
+### 👯 I’m looking to collaborate on  
+**Open-source projects** and **innovative web platforms** that solve real-world problems  
+— especially in **tech, education, and finance**.  
+
+### 🤝 I’m looking for help with  
+Integrating **blockchain payment systems** and **smart contracts** for Escrowlance.  
+
+### 🌱 I’m currently learning  
+**Next.js**, **TypeScript**, and exploring **Web3 technologies** to expand my development skillset.  
+
+### 💬 Ask me about  
+**Full-Stack Web Development**, **Laravel + Vue.js integration**, or **problem-solving techniques**.  
+
+### ⚡ Fun fact  
+I love challenges! 🧠 Whether it’s debugging tough code or solving math problems,  
+I don’t stop until I find a solution.  
+
 ---
-## ðŸ§° Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+### 📫 How to reach me  
+- 📧 **Email:** [omoniyibamikolesolomon@gmail.com](mailto:omoniyibamikolesolomon@gmail.com)  
+- 🐦 **Twitter:** [@yourhandle](https://twitter.com/)  
+- 💼 **LinkedIn:** [linkedin.com/in/omoniyi-bamikole-solomon](https://linkedin.com/in/)  
+- 🌐 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
+
 ---
-## ðŸ“ˆ GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TOBYKNOWS&show_icons=true&theme=github_dark&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TOBYKNOWS&theme=github-dark&hide_border=true" width="48%" />
-</div>
+
+⭐️ *“Building solutions that inspire innovation and drive impact.”*
+
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/devomoniyi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://OmonyiBamikole) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omoniyibamikole6@gmail.com) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Solomon&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Solomon&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Solomon&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ---
-## ðŸ“‚ Pinned Projects
-- ðŸš— [Driver & Vehicle Manager](https://github.com/TOBYKNOWS) *(Flask + Django based app for fleet management)*
-- ðŸ“Š [Django-based House Rent Management System](https://github.com/TOBYKNOWS/House-Rent-App.git) *(A Django-based house rent management system that helps manage tenants, invoices, and rental properties.)*
----
-### ðŸ“« Connect with Me
-- Email: [eskoma50@gmail.com](mailto:eskoma50@gmail.com)
-- LinkedIn: [linkedin.com/in/tobyknows](https://www.linkedin.com/in/tobyknows)
-- GitHub: [github.com/TOBYKNOWS](https://github.com/TOBYKNOWS)
-- Twitter: [@tobyyknows](https://x.com/tobyyknows?s=21)
-- WhatsApp: [Click to chat](https://whatsapp.com/dl/)
-- Instagram: [@_toby.gram](https://www.instagram.com/_toby.gram)
----
-**â€œBlending tech, creativity, and data â€” from Nigeria to the world.â€ ** ðŸ‡³ðŸ‡¬ðŸ’¡ðŸŽ¶ 
-â­ *Donâ€™t forget to star/follow if you vibe with my work!* 
+[![](https://visitcount.itsvg.in/api?id=Solomon&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

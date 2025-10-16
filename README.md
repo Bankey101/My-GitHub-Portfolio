@@ -23,7 +23,7 @@ It’s focused on creating a **secure and transparent platform** for freelancers
 Integrating **blockchain payment systems** and **smart contracts** for Escrowlance.  
 
 ### 🌱 I’m currently learning  
-**Next.js**, **TypeScript**, and exploring **Web3 technologies** to expand my development skillset.  
+**Nuxt.js**, **TypeScript**, and exploring **Web3 technologies** to expand my development skillset.  
 
 ### 💬 Ask me about  
 **Full-Stack Web Development**, **Laravel + Vue.js integration**, or **problem-solving techniques**.  

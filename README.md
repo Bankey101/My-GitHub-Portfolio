@@ -31,7 +31,7 @@ Whether it’s deriving a tricky mathematical proof, optimizing a neural network
 ---
 
 ### 📫 Connect With Me
-- 🌐 **Portfolio:** [solomon-ai.vercel.app](https://devsolomon.vercel.app)
+- 🌐 **Portfolio:** [devsolomon.vercel.app](https://devsolomon.vercel.app)
 - 📧 **Email:** [omoniyibamikole6@gmail.com](mailto:omoniyibamikole6@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/devomoniyi](https://www.linkedin.com/in/devomoniyi)
 - 🐦 **X (Twitter):** [@OmoniyiBamikole](https://x.com/OmoniyiBamikole)

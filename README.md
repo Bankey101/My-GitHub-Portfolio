@@ -31,12 +31,14 @@ Whether it’s deriving a tricky mathematical proof, optimizing a neural network
 ---
 
 ### 📫 Connect With Me
+- 🌐 **Portfolio:** [solomon-ai.vercel.app]([https://your-portfolio-link.com](https://devsolomon.vercel.app/)
 - 📧 **Email:** [omoniyibamikole6@gmail.com](mailto:omoniyibamikole6@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/devomoniyi](https://www.linkedin.com/in/devomoniyi)
 - 🐦 **X (Twitter):** [@OmoniyiBamikole](https://x.com/OmoniyiBamikole)
 - 💬 **WhatsApp:** [Chat on WhatsApp](https://wa.link/589mtb)
 - 🚀 **Upwork:** [Hire Me on Upwork](https://www.upwork.com/freelancers/~0191b7211cb4e22c6b)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2310B981.svg?style=for-the-badge&logo=vercel&logoColor=white)](h[ttps://your-portfolio-link.com](https://devsolomon.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devomoniyi)
 [![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/OmoniyiBamikole)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omoniyibamikole6@gmail.com)

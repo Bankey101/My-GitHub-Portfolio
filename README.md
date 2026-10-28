@@ -110,6 +110,3 @@ Whether it’s deriving a tricky mathematical proof, optimizing a neural network
 
 ⭐️ *“Code is the vehicle, Mathematics is the compass. Building intelligent solutions that inspire innovation and drive impact.”*
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Bankey101&icon=0&color=12" alt="Profile Views" />
-</p>

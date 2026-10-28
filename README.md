@@ -2,7 +2,7 @@
 
 🧠 **AI Software Engineer • Full-Stack Developer • Mathematical Scientist**  
 🌍 Based in **Akure, Ondo State, Nigeria** (Available for Remote & Global Opportunities)  
-🎓 Pursuing a **B.Sc. in Mathematical and Computer Sciences** at the **Federal University of Technology, Akure (FUTA)**  
+🎓 Pursuing a **B.Tech. in Mathematical and Computer Sciences** at the **Federal University of Technology, Akure (FUTA)**  
 
 💻 I bridge **rigorous mathematical science** with **intelligent software engineering**. From architecting **LLM-powered AI systems, RAG pipelines, and predictive models** in **Python & FastAPI** to deploying high-performance full-stack applications with **Laravel, Vue.js 3, Nuxt.js, Inertia.js, TypeScript, and Tailwind CSS**.
 
